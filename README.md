@@ -145,3 +145,10 @@ not repair it.
 
 The vendored [ROS TCP Endpoint documentation](src/ros_tcp_endpoint/README.md)
 retains its upstream instructions and attribution.
+
+## Contributors
+
+- [Giusy Falcone](https://github.com/gfalcon2)
+- [Maxwell Gonzalez](https://github.com/Maxwell44772029)
+
+Upstream ROS TCP Endpoint attribution remains in its vendored documentation and license.
